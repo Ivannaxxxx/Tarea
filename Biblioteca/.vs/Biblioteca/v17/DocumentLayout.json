@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFB97C-7DE8-4FB5-AE99-E6B87FA1B90D}|Biblioteca.vbproj|c:\\users\\admin\\source\\repos\\biblioteca\\libro.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0ADFB97C-7DE8-4FB5-AE99-E6B87FA1B90D}|Biblioteca.vbproj|solutionrelative:libro.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFB97C-7DE8-4FB5-AE99-E6B87FA1B90D}|Biblioteca.vbproj|c:\\users\\admin\\source\\repos\\biblioteca\\formprestar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0ADFB97C-7DE8-4FB5-AE99-E6B87FA1B90D}|Biblioteca.vbproj|solutionrelative:formprestar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFB97C-7DE8-4FB5-AE99-E6B87FA1B90D}|Biblioteca.vbproj|c:\\users\\admin\\source\\repos\\biblioteca\\formprestar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0ADFB97C-7DE8-4FB5-AE99-E6B87FA1B90D}|Biblioteca.vbproj|solutionrelative:formprestar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFB97C-7DE8-4FB5-AE99-E6B87FA1B90D}|Biblioteca.vbproj|c:\\users\\admin\\source\\repos\\biblioteca\\formdevolver.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0ADFB97C-7DE8-4FB5-AE99-E6B87FA1B90D}|Biblioteca.vbproj|solutionrelative:formdevolver.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFB97C-7DE8-4FB5-AE99-E6B87FA1B90D}|Biblioteca.vbproj|c:\\users\\admin\\source\\repos\\biblioteca\\formdevolver.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0ADFB97C-7DE8-4FB5-AE99-E6B87FA1B90D}|Biblioteca.vbproj|solutionrelative:formdevolver.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFB97C-7DE8-4FB5-AE99-E6B87FA1B90D}|Biblioteca.vbproj|c:\\users\\admin\\source\\repos\\biblioteca\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0ADFB97C-7DE8-4FB5-AE99-E6B87FA1B90D}|Biblioteca.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFB97C-7DE8-4FB5-AE99-E6B87FA1B90D}|Biblioteca.vbproj|c:\\users\\admin\\source\\repos\\biblioteca\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0ADFB97C-7DE8-4FB5-AE99-E6B87FA1B90D}|Biblioteca.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFB97C-7DE8-4FB5-AE99-E6B87FA1B90D}|Biblioteca.vbproj|c:\\users\\admin\\source\\repos\\biblioteca\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0ADFB97C-7DE8-4FB5-AE99-E6B87FA1B90D}|Biblioteca.vbproj|solutionrelative:form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFB97C-7DE8-4FB5-AE99-E6B87FA1B90D}|Biblioteca.vbproj|c:\\users\\admin\\source\\repos\\biblioteca\\applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0ADFB97C-7DE8-4FB5-AE99-E6B87FA1B90D}|Biblioteca.vbproj|solutionrelative:applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFB97C-7DE8-4FB5-AE99-E6B87FA1B90D}|Biblioteca.vbproj|c:\\users\\admin\\source\\repos\\biblioteca\\biblioteca.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0ADFB97C-7DE8-4FB5-AE99-E6B87FA1B90D}|Biblioteca.vbproj|solutionrelative:biblioteca.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Biblioteca\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Biblioteca\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-26T04:34:23.193Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormDevolver.vb",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Biblioteca\\FormDevolver.vb",
+              "RelativeDocumentMoniker": "FormDevolver.vb",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Biblioteca\\FormDevolver.vb",
+              "RelativeToolTip": "FormDevolver.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-26T04:35:23.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormPrestar.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Biblioteca\\FormPrestar.vb",
+              "RelativeDocumentMoniker": "FormPrestar.vb",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Biblioteca\\FormPrestar.vb [Design]",
+              "RelativeToolTip": "FormPrestar.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-26T04:30:51.021Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormPrestar.vb",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Biblioteca\\FormPrestar.vb",
+              "RelativeDocumentMoniker": "FormPrestar.vb",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Biblioteca\\FormPrestar.vb",
+              "RelativeToolTip": "FormPrestar.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-26T04:36:08.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Libro.vb",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Biblioteca\\Libro.vb",
+              "RelativeDocumentMoniker": "Libro.vb",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Biblioteca\\Libro.vb",
+              "RelativeToolTip": "Libro.vb",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-26T04:34:03.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormDevolver.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Biblioteca\\FormDevolver.vb",
+              "RelativeDocumentMoniker": "FormDevolver.vb",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Biblioteca\\FormDevolver.vb [Design]",
+              "RelativeToolTip": "FormDevolver.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-26T04:28:08.862Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Biblioteca\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Biblioteca\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-26T06:52:55.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Biblioteca\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Biblioteca\\Form1.Designer.vb",
+              "RelativeToolTip": "Form1.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-26T04:27:53.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationEvents.vb",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Biblioteca\\ApplicationEvents.vb",
+              "RelativeDocumentMoniker": "ApplicationEvents.vb",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Biblioteca\\ApplicationEvents.vb",
+              "RelativeToolTip": "ApplicationEvents.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-26T17:38:00.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Biblioteca.vbproj",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Biblioteca\\Biblioteca.vbproj",
+              "RelativeDocumentMoniker": "Biblioteca.vbproj",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Biblioteca\\Biblioteca.vbproj",
+              "RelativeToolTip": "Biblioteca.vbproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-10-26T04:27:39.581Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
